@@ -7,9 +7,13 @@ estudante = True
 linguagem = "Python"
 objetivo = "Ser um programador de qualidade e respeito"
 
-print("Nome :", nome)
-print("Profissao :", profissao)
-print("Idade :", idade)
-print("Peso :", peso)
-print("Altura :", altura)
-print("Estudante:", estudante)
+print(f"""
+Nome: {nome}
+Profissão: {profissao}
+Idade: {idade}
+Peso: {peso}
+Altura: {altura}
+Estudante: {estudante}
+Linguagem: {linguagem}
+Objetivo: {objetivo}
+""")
