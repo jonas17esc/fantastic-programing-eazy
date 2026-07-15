@@ -1,5 +1,11 @@
-#EXERCICIO 2
-# variaveis
+# ===========================================
+# Curso de Python
+# Aula 01
+# Exercício 02
+# Tema: Variaveis
+# Autor: Jonas Henrique
+# Data: 15/07/2026
+# ===========================================
 nome = "Jonas Henrique"
 profissao = "Estudante de programação"
 idade = 18 
