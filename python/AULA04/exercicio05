@@ -1,0 +1,27 @@
+# ===========================================
+# Curso de Python
+# Aula 04
+# Exercício 05
+# Tema: Operadores de Comparação
+# Autor: Jonas Henrique
+# Data: 15/07/2026
+# ===========================================
+
+n1 = int(input("Digite um valor para o número 1: "))
+n2 = int(input("Digite um valor para o número 2: "))
+
+igual = n1 == n2
+diferente = n1 != n2
+maior_que = n1 > n2
+menor_que = n1 < n2
+maior_ou_igual = n1 >= n2
+menor_ou_igual = n1 <= n2
+
+print("\n===== RESULTADOS =====")
+
+print(f"Os números são iguais? {igual}")
+print(f"Os números são diferentes? {diferente}")
+print(f"O número 1 é maior que o número 2? {maior_que}")
+print(f"O número 1 é menor que o número 2? {menor_que}")
+print(f"O número 1 é maior ou igual ao número 2? {maior_ou_igual}")
+print(f"O número 1 é menor ou igual ao número 2? {menor_ou_igual}")
